@@ -51,3 +51,47 @@ pip install -r requirements.txt
 ```
 4. Download the dataset and place it in the appropriate directory (data/) following the provided structure.
 
+## Data Preprocessing:
+***
+
+Data preprocessing is a critical step in any machine learning project. We will perform the following preprocessing steps:
+
+* Resize images to a consistent size.
+* Normalize pixel values.
+* Augment the training data with techniques such as random flips and rotations.
+
+
+## Model Selection:
+***
+
+## Model Training:
+***
+
+## Model Evaluation:
+***
+
+## Inference
+***
+
+## Conclusion
+***
+
+## Future Work
+***
+
+## Contributing
+***
+
+I welcome contributions to this project! If you find any issues or have ideas for improvements, please submit a pull request or open an issue in the repository.
+
+## Repository Structure
+***
+
+```
+├── .gitignore
+├── README.md
+├── elephants_vs_zebras_photos.npy
+├── index.ipynb
+├── requirements.txt
+└── 
+```
